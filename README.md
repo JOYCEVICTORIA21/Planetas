@@ -2,7 +2,7 @@
 
 Um novo projeta realizado no Flutter.
 
-## Getting Started
+## Informação!
 
 Este projeto é um ponto de partida para um inicio de programação em android.
 
